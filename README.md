@@ -25,7 +25,6 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile design](./assets/images/mobile_design.png)
 ![desktop design](./assets/images/desktop_design.png)
 
 ### Links
